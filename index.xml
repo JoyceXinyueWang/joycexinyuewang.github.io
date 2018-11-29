@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyue Blog</title>
+    <link>/</link>
+    <description>Recent content on Xinyue Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Xinyue&#39;s Blog</title>
+      <link>/2018/11/29/hello-world/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/29/hello-world/</guid>
+      <description>  “Yeah It&amp;rsquo;s on. ”
+ Hello World! </description>
+    </item>
+    
+    <item>
+      <title>Morisset Park - Kangaroo</title>
+      <link>/2018/11/11/morisset-park/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/11/morisset-park/</guid>
+      <description> Yeah </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
